@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306365813646",
+    "project_id": "notifymeee",
+    "storage_bucket": "notifymeee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306365813646:android:3dde2f5f35ab73f8f6cadf",
+        "android_client_info": {
+          "package_name": "com.example.notifymeee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306365813646-9bqqivkm7vk7canvmognmm7691lbbho2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_p9e2CqfewxD1_oUV3ag6ACQTHc_DD88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306365813646-9bqqivkm7vk7canvmognmm7691lbbho2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
